@@ -10,10 +10,10 @@ The purpose of this statistical work is to use public data from the Citi Bike bi
 ## Results ##
 
 ![](https://github.com/AsaHolley/BikeSharing/blob/main/images/Story%20image%201.png)
-The two visualizations above
+**description:** The two visualizations above show  that most bike rides are under 20 minuts in total duration and  that peak hours generally revolve around the morning and evening commute hours. This could mean that the bikes are utilized commuting, which could be a great marketing angle for a palce like Des Moines. It also means that late evening and very early mornings are the best times to to do Bike maintenance. 
 
-
-
+![](https://github.com/AsaHolley/BikeSharing/blob/main/images/Story%20image%202.png)
+**description:** 
 
 
 ## Summary ##
