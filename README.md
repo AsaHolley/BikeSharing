@@ -16,6 +16,12 @@ The purpose of this statistical work is to use public data from the Citi Bike bi
 **description:** The heatmap illustrates that the bikes are most utilized during peak commuting hours during the work week, but are more consistantly used throughout the day on weekends and are rather heavily used through the weekend. This means the bikes should be used every day of the week. 
 
 ![](https://github.com/AsaHolley/BikeSharing/blob/main/images/Story%20image%203.png)
-**description:**
+**description:** The two visualizations above clearly show that the bike sharing program is more utilized by men than woman, in overall share of rides arcoss all durations of trips. This means that when marketing the bike sharing program there should be a focus on marketing towards men given their proclivity towards using the bikes. 
+
+![](https://github.com/AsaHolley/BikeSharing/blob/main/images/Story%20image%204.png)
+**description:** 
+
+![](https://github.com/AsaHolley/BikeSharing/blob/main/images/Story%20image%205.png)
+**description:** 
 
 ## Summary ##
